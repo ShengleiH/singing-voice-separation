@@ -9,12 +9,12 @@ In the very early stage, now, I have just implemented the basic DNN model to do 
 This DNN model is trained on ['MIR-1K' dataset][1] collected by Chao-Ling Hsu and Prof. Jyh-Shing Roger Jang from National Taiwan University. And my final results are approximated to:
 
 | Metrics       | Music         | Vocal          |
-|:-------------:|:-------------:| :-------------:|
+|:-------------|:-------------| :-------------|
 | GNSDR         | 5.766         | 5.738          |
 | GSIR          | 11.614        | 13.232         |
 | GSAR          | 8.051         | 7.455          |
 
-If you have ideas to improve this results, please let me know. The results in paper[1] is better than this one, but I have no idea how to improve it.
+If you have ideas to improve this results, please let me know. The results in paper \[1\] is better than this one, but I have no idea how to improve it.
 
 And I am trying to use GAN to do this task now.
 
