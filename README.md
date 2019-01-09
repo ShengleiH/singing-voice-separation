@@ -16,7 +16,7 @@ This DNN model is trained on ['MIR-1K' dataset][1] collected by Chao-Ling Hsu an
 
 If you have ideas to improve this results, please let me know. The results in paper \[1\] is better than this one, but I have no idea how to improve it.
 
-And I am trying to use GAN to do this task now.
+And I am trying to use GAN to do this task now. (Well, unfortunately, it failed :(, the model cannot converge.)
 
 # Reference:
 
